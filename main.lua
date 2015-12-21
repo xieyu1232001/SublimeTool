@@ -1,7 +1,7 @@
 print("main star")
 require("module.Log")
 
-local PROGRAM_LOG_PATH = "C:\\Users\\xiehuanbiao\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\"
+local PROGRAM_LOG_PATH = "C:\\Users\\用户名\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\"
 local SNIPPET_TEXT = "<snippet>\n\t<content><![CDATA[%s]]></content>\n\t<tabTrigger>%s</tabTrigger>\n\t<scope>source.%s</scope>\n</snippet>"
 
 -- 配置关键词
